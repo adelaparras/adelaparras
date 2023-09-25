@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-  <h3 align="center">👋 Hello, I'm Alejandro De La Parra Solomon</h3>
+  <h2 align="center">👋 Hello, I'm Alejandro De La Parra Solomon</h2>
 
 <div align='center'>
   
