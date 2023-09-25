@@ -47,10 +47,10 @@
       </td>
       <td width="50%">
         <ul>
-          <li>🌐 Localization & Networking: Localizing for domestic and multinational markets in multiple industries.</li>
-          <li>💼 Customer Relations: Building effective relationships with clients, suppliers, and stakeholders.</li>
-          <li>🧠 Consulting Proficiency: Problem-solving and clear communication honed through consulting.</li>
-          <li>📢 Marketing and Communications: Developing impactful marketing strategies and managing PR.</li>
+          <li>🌐 Localization & Networking: Domestic and multinational markets in multiple industries.</li>
+          <li>💼 Customer Relations: Building rapport with clients, suppliers, and stakeholders.</li>
+          <li>🧠 Consulting Proficiency: Problem-solving and clear communication.</li>
+          <li>📢 Marketing and Communications: Impactful marketing strategies and managing PR.</li>
           <li>🖥️ Information Technology: Implementing digital strategies and IT protocols.</li>
         </ul>
       </td>
@@ -62,7 +62,7 @@
   <p align="center">
     📫 Feel free to reach out to me on
     <a href="https://linkedin.com/in/alejandrodelaparra">
-    <br><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <br><br><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
 
