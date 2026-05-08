@@ -1,7 +1,7 @@
 # Alejandro De La Parra Solomon
 
 **Digital Trade & Logistics Innovation**  
-*Advancing compliance-first infrastructure for global supply chains*
+*Advancing compliance-first infrastructure for global supply chains.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandrodelaparra)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adelaparras)
@@ -11,7 +11,7 @@
 ## Professional Overview
 
 <small>
-Senior executive with 20+ years of experience in digital transformation across fintech, e-commerce, blockchain, and supply chain systems. Specialized in EU logistics digitalization, regulatory compliance innovation, and decentralized infrastructure for trade. Current research explores how decentralized identity, verified data sharing, and trusted infrastructure enable logistics operators to achieve regulatory compliance while maintaining operational efficiency and data sovereignty.
+Senior executive with 20+ years of experience in digital transformation across fintech, e-commerce, blockchain, and supply chain systems. Specialized in logistics digitalization, regulatory compliance innovation, and decentralized infrastructure for trade. Current research explores how decentralized identity, verified data sharing, and trusted infrastructure enable logistics operators to achieve regulatory compliance while maintaining operational efficiency and data sovereignty.
 </small>
 
 ---
@@ -20,10 +20,10 @@ Senior executive with 20+ years of experience in digital transformation across f
 
 | Domain | Scope |
 |--------|-------|
-| **Compliance-First Infrastructure** | <small>Decentralized systems as foundations for regulatory requirements while preserving operator privacy and data control</small> |
+| **Compliance-First Infrastructure** | <small>Decentralized systems as foundations for regulatory requirements while preserving operator privacy and data control.</small> |
 | **Trade Finance Innovation** | <small>Verified, auditable data unlocking financial services for logistics operators and SMEs</small> |
-| **EU Public-Private Collaboration** | <small>Distributed ledger technology for transparent coordination between regulators, operators, and service providers</small> |
-| **Data Governance & Sovereignty** | <small>Cross-border operations, authority-operator frameworks, selective disclosure for verification</small> |
+| **EU Public-Private Collaboration** | <small>Distributed ledger technology for transparent coordination between regulators, operators, and service providers.</small> |
+| **Data Governance & Sovereignty** | <small>Cross-border operations, authority-operator frameworks, selective disclosure for verification.</small> |
 
 ---
 
@@ -43,10 +43,10 @@ Senior executive with 20+ years of experience in digital transformation across f
 
 | Competency | Focus |
 |---|---|
-| **Regulatory & Compliance Strategy** | <small>EU logistics regulations and digital transformation mandates; Compliance-as-infrastructure thinking for regulated industries; Multi-stakeholder coordination across government, industry, and technology; Data governance and sovereignty in cross-border operations</small> |
-| **Blockchain & Decentralized Systems** | <small>Consensus mechanisms and trust models for regulated environments; Decentralized identity and verifiable credentials frameworks; Multi-chain architecture design and cryptographic verification; Immutable audit trails and regulatory inspection support</small> |
-| **Logistics & International Trade** | <small>End-to-end supply chain operations and documentation management; Cross-border logistics, customs compliance, and regulatory navigation; Trade finance and working capital optimization for operators; Enterprise and SME digital transformation</small> |
-| **Technology Leadership** | <small>Distributed systems, smart contracts, and APIs; Infrastructure design for compliance-critical systems; Security architecture and cryptographic systems; Open-source ecosystem governance</small> |
+| **Regulatory & Compliance Strategy** | <small>EU logistics regulations and digital transformation mandates; Compliance-as-infrastructure thinking for regulated industries; Multi-stakeholder coordination across government, industry, and technology; Data governance and sovereignty in cross-border operations.</small> |
+| **Blockchain & Decentralized Systems** | <small>Consensus mechanisms and trust models for regulated environments; Decentralized identity and verifiable credentials frameworks; Multi-chain architecture design and cryptographic verification; Immutable audit trails and regulatory inspection support.</small> |
+| **Logistics & International Trade** | <small>End-to-end supply chain operations and documentation management; Cross-border logistics, customs compliance, and regulatory navigation; Trade finance and working capital optimization for operators; Enterprise and SME digital transformation.</small> |
+| **Technology Leadership** | <small>Distributed systems, smart contracts, and APIs; Infrastructure design for compliance-critical systems; Security architecture and cryptographic systems; Open-source ecosystem governance.</small> |
 
 ---
 
