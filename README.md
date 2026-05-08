@@ -11,8 +11,6 @@
 
 Senior executive with **20+ years** of digital transformation experience across fintech, e-commerce, blockchain, and supply chain. Passionate about **EU logistics digitalization**, **regulatory compliance innovation**, and **decentralized solutions for trade**.
 
-Based in **Tallinn, Estonia** 🇪🇪
-
 ### Current Focus
 
 Exploring how **decentralized identity, verified data sharing, and trusted infrastructure** can help logistics operators achieve regulatory compliance while maintaining operational efficiency and data control.
